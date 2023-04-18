@@ -1,5 +1,4 @@
-Name: Kraminius
-Studying: Software Engineering @ DTU
-Languages: Danish, English, Java, Python, ASP.net, MSSQL
-Loves: Crows
-Marital status: As good as married.
+Name: Kraminius <br>
+Studying: Software Engineering @ DTU <br>
+Languages: Danish, English, Java, MySQL, C, LC3 <br>
+Loves: Crows and problemsolving <br>
