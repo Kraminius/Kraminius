@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on a Java Spring booking website<br>I'm learning C and Assembly right now.<br><br>I'm studying to become a Software Engineer.<br><br> I'm Mikkel, 31 years old and passionate about the mystical life.
+I'm currently working on a Java Spring booking website<br>I'm learning C and Kotlin right now.<br><br>I'm studying to become a Software Engineer.<br><br>
 
 
 # 💻 Tech Stack:
